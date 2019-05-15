@@ -1,7 +1,6 @@
 CONTRIBUTING GUIDELINES:
 
-When contributing to the repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of the repository before making a change.
+When contributing to the repository, please first discuss the change you wish to make via issue,email,or any other method with the owners of the repository before making a change.
 
 Behavior that contributes to creating a positive environment.
 > Using welcoming and inclusive language
@@ -9,11 +8,9 @@ Behavior that contributes to creating a positive environment.
 > Gracefully accepting constructive criticism
 > Focusing on what is best for the community
 > Showing empathy towards other community members
-
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 How Can one Contribute?
-
 Reporting Bugs
 Suggesting Enhancements
 Your First Code Contribution
@@ -26,7 +23,6 @@ and add follow-up commits before your changes are merged into the base branch.
 
 Creating a Pull Request
 There are 2 main work flows when dealing with pull requests:
-
 1 Pull Request from a forked repository
 2 Pull Request from a branch within a repository
 
@@ -52,8 +48,7 @@ Update the README.md with details of changes
 You may merge the Pull Request in once you have the sign-off of two other developers, 
 or if you do not have permission to do that, you may request the second reviewer to merge it for you.
 
-Creating an issue
-
+Creating an issue:
 Issues can be used to keep track of bugs, enhancements, or other requests.
 > On GitHub, navigate to the main page of the repository.
 > Under your repository name, click  Issues.
@@ -69,10 +64,10 @@ Suggest your change in discussions or discord and   start writing code.
 
 Do you want to contribute to the Caffeineaholics/Login ??
 Join Caffeinoholics org .. 
-IT  is a volunteer effort. We encourage you to pitch in and join the team!
+It is a volunteer effort. We encourage you to pitch in and join the team!
 
 Do you have questions?? 
 Ask any question  in discord. 
 Thanks! 
 
-CAFFEINEAHOLICS! Team!
+THE CAFFEINEAHOLICS TEAM!!
